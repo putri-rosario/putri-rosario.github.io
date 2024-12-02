@@ -156,6 +156,30 @@
     --color-text-light  : var(--color-gray-7);
     --color-placeholder : var(--color-gray-7);
 
+    /* icon medsos */
+    .contact-icons a {
+        margin: 0 15px; /* Jarak antar ikon */
+        font-size: 30px; /* Ukuran ikon */
+        color: #333; /* Warna ikon */
+        text-decoration: none; /* Hilangkan garis bawah */
+    }
+    
+    .contact-icons a:hover {
+        color: #0077b5; /* Warna ikon saat hover */
+        transition: color 0.3s ease; /* Efek transisi warna */
+    }
+    
+    .row.contact-bottom {
+        display: flex;
+        justify-content: center; /* Pusatkan ikon secara horizontal */
+        align-items: center; /* Pusatkan ikon secara vertikal */
+        padding: 20px;
+        margin-top: 33%;
+        margin-left: -590%;
+    }
+    
+    
+
     /* buttons
      */
     --color-btn                    : var(--color-gray-9);
@@ -3198,7 +3222,6 @@ img.u-pull-left {
     min-height      : calc(25.5 * var(--space));
     justify-content : center;
     align-items     : center;
-    padding-top     : calc(16vh + var(--header-height));
     padding-bottom  : var(--vspace-3);
 }
 
