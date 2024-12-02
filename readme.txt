@@ -1,13 +1,13 @@
-Website ini adalah portofolio pribadi yang dirancang untuk menampilkan informasi tentang saya (Putri Rosario), termasuk profil, proyek, pengalaman, dan keterampilan. Dengan tampilan modern dan responsif, website ini dirancang untuk memberikan kesan profesional dan memudahkan anda untuk mengenal saya.
+This website is a personal portfolio designed to showcase information about me (Princess Rosario), including profile, projects, experience, and skills. With a modern and responsive look, this website is designed to give a professional impression and make it easy for you to get to know me.
 
 
-Isi Portofolio 
-- Beranda yang Menarik: Tampilan awal yang memperkenalkan identitas pribadi.
-- Tentang Saya: Informasi tentang latar belakang dan keahlian.
-- Proyek: Daftar proyek yang telah saya kerjakan, termasuk deskripsi proyek tersebut.
-- Kontak: Formulir kontak untuk anda yang ingin berkomunikasi langsung.
+Portfolio Content 
+- Attractive Homepage: A first look that introduces personal identity.
+- About Me: Information about my background and expertise.
+- Projects: A list of projects I have worked on, including a description of the project.
+- Contact: A contact form for those of you who want to communicate directly.
 
-Jika Anda memiliki pertanyaan, saran, atau hanya ingin menyapa, silakan hubungi melalui:
+If you have any questions, suggestions, or just want to say hello, please get in touch via:
 Instagram : putrirosario_
-LinkedIn : Putri Rosario
-GitHub : https://github.com/putri-rosario
+LinkedIn : Princess Rosario
+GitHub: https://github.com/putri-rosario
